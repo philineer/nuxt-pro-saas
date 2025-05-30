@@ -129,22 +129,22 @@ testimonials:
         description: Restaurant Critic
         avatar:
           src: https://i.pravatar.cc/120?img=12
-    - quote: Integration with our existing tools was seamless. The webhooks and API documentation made it easy to automate our workflows and enhance our development pipeline.
+    - quote: I love the variety of dishes on the menu. Whether I'm in the mood for a hearty breakfast or a light lunch, Wolfgang's Cafe has something for everyone.
       user:
-        name: Sophia Martinez
-        description: Integration Specialist at TechFlow
+        name: Emily Dickinson
+        description: Poet and Food Lover
         avatar:
           src: https://i.pravatar.cc/120?img=14
 cta:
-  title: Start with Nuxt UI Pro today!
-  description: Nuxt UI Pro is free in development, but you need a license to use it in production.
+  title: Get Started with Wolfgang's Cafe
+  description: Ready to experience the best of Wolfgang's Cafe? Whether you're looking to enjoy a delicious meal, host an event, or simply relax with a cup of coffee, we're here to make your visit special. Join us today and discover why Wolfgang's Cafe is the perfect place for food lovers.
   links:
-    - label: Buy now
+    - label: Order Now
       to: https://ui.nuxt.com/pro/purchase
       target: _blank
-      icon: i-lucide-shopping-cart
-    - label: License
+      icon: i-lucide-sandwich
+    - label: Become a Member
       to: https://ui.nuxt.com/getting-started/license
-      trailingIcon: i-lucide-circle-help
+      trailingIcon: i-lucide-users
       target: _blank
       variant: subtle

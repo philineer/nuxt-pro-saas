@@ -1,11 +1,11 @@
-title: A plan for every need
-description: Our plans are designed to meet the requirements of both beginners and players. Get the right plan that suits you.
+title: The Menu
+description: Explore our delicious offerings at Wolfgang's Cafe.
 seo:
-  title: Pricing
-  description: Choose the plan that's right for you.
+  title: Our Menu
+  description: Discover the delightful dishes at Wolfgang's Cafe, crafted with fresh ingredients and a passion for flavor.
 navigation.icon: i-lucide-credit-card
 plans:
-  - title: Basic
+  - title: Spring Rolls
     description: A basic plan for individuals.
     price:
       month: $9.9
