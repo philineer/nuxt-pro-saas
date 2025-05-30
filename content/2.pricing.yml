@@ -65,14 +65,14 @@ logos:
     - i-lucide-instagram
     - i-lucide-linkedin
 faq:
-  title: Frequently asked questions
-  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
+  title: Frequently Asked Questions
+  description: Have questions about our menu or services? Check out our FAQs below for answers to common inquiries.
   items:
-    - label: Is this a secure service?
-      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+    - label: What is Wolfgang's Cafe?
+      content: Wolfgang's Cafe is a delightful dining establishment offering a variety of delicious dishes made with fresh, locally sourced ingredients. Our menu features everything from classic comfort food to innovative culinary creations.
       defaultOpen: true
-    - label: How can I cancel my subscription?
-      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
+    - label: What are the opening hours?
+      content: Wolfgang's Cafe is open daily from 8 AM to 7 PM, providing a cozy atmosphere for breakfast, lunch, and dinner.
     - label: How does the free trial work?
       content: Quis officia commodo magna eu qui aliquip duis.
     - label: Can I switch plans later?
