@@ -34,8 +34,8 @@ sections:
       - name: Friendly Service
         description: Our staff is dedicated to providing exceptional service, ensuring that your visit is enjoyable from start to finish. We're here to make your dining experience memorable.
         icon: i-lucide-lock
-  - title: Optimized for Growth
-    description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
+  - title: Why Choose Wolfgang's Cafe?
+    description: Discover what makes Wolfgang's Cafe the perfect choice for your next meal. Our commitment to quality, service, and atmosphere sets us apart from the rest.
     orientation: horizontal
     reverse: true
     features:
