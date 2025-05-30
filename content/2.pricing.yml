@@ -11,53 +11,53 @@ plans:
       month: $9.99
       year: $15.99
     button:
-      label: Get Started
+      label: Add to Cart
       color: neutral
       variant: subtle
     features:
-      - 1 GB Storage
-      - 1 Email Account
-      - 1 Domain
-      - 1 Website
-      - 1 Database
-      - 1 SSL Certificate
-      - 1 Support Ticket
-  - title: Standard
-    description: A standard plan for small teams.
+      - Fresh Ingredients
+      - Crispy Texture
+      - Tangy Dipping Sauce
+      - Vegetarian Option
+      - Perfect Appetizer
+      - Gluten-Free Option
+      - Quick Preparation
+  - title: Pho Soup
+    description: A traditional Vietnamese noodle soup with aromatic broth, herbs, and your choice of protein.
     price:
-      month: $19.9
-      year: $199.9
+      month: $12.9
+      year: $18.99
     highlight: true
     scale: true
     button:
-      label: Get Started
+      label: Add to Cart
     features:
-      - 10 GB Storage
-      - 10 Email Accounts
-      - 10 Domains
-      - 10 Websites
-      - 10 Databases
-      - 10 SSL Certificates
-      - 10 Support Tickets
-  - title: Premium
-    description: A premium plan for large teams.
+      - Aromatic Broth
+      - Fresh Herbs
+      - Choice of Protein
+      - Vegan Option
+      - Gluten-Free Option
+      - Comforting Warmth
+      - Bowl of Happiness
+  - title: Banh Mi Sandwich
+    description: A delicious Vietnamese sandwich with marinated meat, pickled vegetables, and fresh herbs on a crispy baguette.
     price:
-      month: $29.9
-      year: $299.9
+      month: $12.99
+      year: $19.99
     button:
-      label: Get Started
+      label: Add to Cart
       color: neutral
       variant: subtle
     features:
-      - 100 GB Storage
-      - 100 Email Accounts
-      - 100 Domains
-      - 100 Websites
-      - 100 Databases
-      - 100 SSL Certificates
-      - 100 Support Tickets
+      - Crispy Baguette
+      - Savory Marinated Meat
+      - Pickled Vegetables
+      - Fresh Herbs
+      - Perfectly Balanced Flavors
+      - Portable Meal
+      - Authentic Taste
 logos:
-  title: Trusted by the world's best
+  title: Sponsered by
   icons:
     - i-simple-icons-amazonaws
     - i-simple-icons-heroku
