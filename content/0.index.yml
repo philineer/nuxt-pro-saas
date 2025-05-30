@@ -20,19 +20,19 @@ hero:
       to: https://github.com/nuxt-ui-pro/saas
       target: _blank
 sections:
-  - title: Enterprise-Grade Solutions
-    description: Transform your business with our comprehensive suite of tools. Built for scale, security, and seamless integration, our platform empowers teams to achieve more while maintaining complete control.
+  - title: Welcome to Wolfgang's Cafe
+    description: At Wolfgang's Cafe, we pride ourselves on providing a delightful dining experience with a menu that caters to all tastes. From our signature dishes to our daily specials, every meal is crafted with care and attention to detail.
     id: features
     orientation: horizontal
     features:
-      - name: Developer-First
-        description: Built by developers for developers, with extensive API documentation and flexible integration options.
+      - name: Delicious Food
+        description: Indulge in a wide variety of dishes made with fresh, locally sourced ingredients. Our menu features everything from classic comfort food to innovative culinary creations.
         icon: i-lucide-cog
-      - name: 99.9% Uptime
-        description: Enterprise-grade infrastructure with guaranteed reliability and automatic failover protection.
+      - name: Cozy Atmosphere
+        description: Relax in our warm and inviting space, designed to make you feel at home. Whether you're dining alone or with friends, our cafe is the perfect place to unwind.
         icon: i-lucide-check
-      - name: Bank-Level Security
-        description: SOC 2 Type II certified with end-to-end encryption and advanced threat detection.
+      - name: Friendly Service
+        description: Our staff is dedicated to providing exceptional service, ensuring that your visit is enjoyable from start to finish. We're here to make your dining experience memorable.
         icon: i-lucide-lock
   - title: Optimized for Growth
     description: Scale your business confidently with our enterprise-ready platform. From startups to Fortune 500 companies, we provide the tools and support you need to succeed.
