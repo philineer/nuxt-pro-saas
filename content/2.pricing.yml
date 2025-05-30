@@ -61,9 +61,9 @@ logos:
   icons:
     - i-lucide-github
     - i-lucide-twitter
-    - i-simple-icons-netlify
-    - i-simple-icons-vercel
-    - i-simple-icons-cloudflare
+    - i-lucide-facebook
+    - i-lucide-instagram
+    - i-lucide-linkedin
 faq:
   title: Frequently asked questions
   description: Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.
