@@ -1,8 +1,8 @@
-title: Build your SaaS with Nuxt UI Pro
-description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes. It includes all primitives to build landing pages, documentations, blogs, dashboards or entire SaaS products.
+title: Wolfgang's Cafe
+description: Wolfgang's Cafe is a wonderful place to enjoy delicious food and drinks in a cozy atmosphere. Our menu features a variety of dishes made with fresh, locally sourced ingredients, and our friendly staff is always ready to make your visit special. Whether you're looking for a quick bite or a leisurely meal, Wolfgang's Cafe has something for everyone.
 seo:
-  title: Nuxt UI Pro - SaaS template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: Wolfgang's Cafe
+  description: Experience the best of Wolfgang's Cafe with our delicious menu, cozy atmosphere, and friendly service. Perfect for a quick bite or a leisurely meal.
 navigation: false
 hero:
   links:
