@@ -56,6 +56,23 @@ plans:
       - Perfectly Balanced Flavors
       - Portable Meal
       - Authentic Taste
+  - title: Bun Bo Hue
+    description: A spicy Vietnamese noodle soup with beef, lemongrass, and herbs, served with fresh vegetables.
+    price:
+      month: $9.99
+      year: $15.99
+    button:
+      label: Add to Cart
+      color: neutral
+      variant: subtle
+    features:
+      - Spicy Broth
+      - Tender Beef
+      - Lemongrass Flavor
+      - Fresh Vegetables
+      - Hearty Meal
+      - Authentic Vietnamese Taste
+      - Comforting Warmth
 logos:
   title: Sponsered by
   icons:
