@@ -6,7 +6,7 @@ seo:
 navigation.icon: i-lucide-credit-card
 plans:
   - title: Spring Rolls
-    description: A basic plan for individuals.
+    description: Crispy rolls filled with fresh vegetables and served with a tangy dipping sauce.
     price:
       month: $9.9
       year: $99.9
