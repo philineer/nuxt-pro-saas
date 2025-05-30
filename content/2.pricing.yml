@@ -73,11 +73,11 @@ faq:
       defaultOpen: true
     - label: What are the opening hours?
       content: Wolfgang's Cafe is open daily from 8 AM to 7 PM, providing a cozy atmosphere for breakfast, lunch, and dinner.
-    - label: How does the free trial work?
-      content: Quis officia commodo magna eu qui aliquip duis.
-    - label: Can I switch plans later?
-      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
-    - label: Do you offer refunds?
-      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
-    - label: Do you offer support?
-      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
+    - label: Do you offer takeout?
+      content: We're sorry, but we currently do not offer takeout services. However, you can order to pick up your food in person at our cafe.
+    - label: Do you have vegetarian options?
+      content: Yes, we offer a variety of vegetarian options on our menu, including salads, soups, and main dishes that cater to plant-based diets.
+    - label: Do you have gluten-free options?
+      content: Yes, we have gluten-free options available. Please ask our staff for recommendations when you visit.
+    - label: Do you offer catering services?
+      content: Yes, we offer catering services for events and special occasions. Please contact us for more details and to discuss your catering needs.
