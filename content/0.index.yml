@@ -54,7 +54,7 @@ features:
   items:
     - title: Delicious Menu
       description: Explore our diverse menu featuring a wide range of dishes, from classic favorites to innovative culinary creations. We use only the freshest, locally sourced ingredients to ensure every meal is a delight.
-      icon: i-lucide-cog
+      icon: i-lucide-utensils-crossed
     - title: Cozy Atmosphere
       description: Relax in our warm and inviting space, designed to make you feel at home. Whether you're dining alone or with friends, our cafe is the perfect place to unwind and enjoy your meal.
       icon: i-lucide-check
