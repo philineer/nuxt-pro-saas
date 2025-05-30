@@ -49,8 +49,8 @@ sections:
         description: With a diverse menu that caters to all dietary preferences, you'll always find something to satisfy your cravings. From vegan options to hearty meat dishes, we have it all.
         icon: i-lucide-chart-bar
 features:
-  title: Features That Set Us Apart
-  description: Our platform combines enterprise-grade reliability with developer-friendly features, providing everything you need to build and scale your applications.
+  title: Features that Make Us Stand Out
+  description: Wolfgang's Cafe offers a range of features designed to enhance your dining experience. From our extensive menu to our commitment to quality, discover what sets us apart.
   items:
     - title: Developer Experience
       description: Comprehensive documentation, powerful CLI tools, and intuitive APIs that make development a joy.
