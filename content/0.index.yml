@@ -117,16 +117,16 @@ testimonials:
         description: Event Planner at Gatherings Co.
         avatar:
           src: https://i.pravatar.cc/120?img=11
-    - quote: We serve millions of API requests daily, and the real-time analytics and monitoring tools have been invaluable for optimizing our performance and identifying bottlenecks.
+    - quote: The food here is so authentic and flavorful. I love trying new dishes, and Wolfgang's Cafe never disappoints. It's a culinary gem in the city!
       user:
-        name: Rachel Kim
-        description: Performance Engineer at APIHub
+        name: Rachel Bae
+        description: Vietamese Citizen
         avatar:
           src: https://i.pravatar.cc/120?img=10
-    - quote: The component library and design system tools helped us maintain consistency across our 20+ micro-frontends. Our development velocity has never been better.
+    - quote: The service at Wolfgang's Cafe is top-notch. The staff is always attentive and goes out of their way to make sure you have a great experience. I can't recommend it enough!
       user:
-        name: Thomas Weber
-        description: UI Architecture Lead at DesignScale
+        name: Thomas Quinn
+        description: Restaurant Critic
         avatar:
           src: https://i.pravatar.cc/120?img=12
     - quote: Integration with our existing tools was seamless. The webhooks and API documentation made it easy to automate our workflows and enhance our development pipeline.
