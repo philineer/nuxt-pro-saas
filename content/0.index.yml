@@ -60,10 +60,10 @@ features:
       icon: i-lucide-smile
     - title: Advanced Security
       description: Your safety is our priority. We implement strict hygiene protocols and ensure a clean, safe environment for all our guests. Enjoy your meal with peace of mind.
-      icon: i-lucide-lock
+      icon: i-lucide-shield-check
     - title: Clean and Safe
       description: We prioritize cleanliness and safety in our cafe. Our staff follows strict hygiene protocols to ensure a safe dining environment for all our guests.
-      icon: i-lucide-rocket
+      icon: i-lucide-sparkle
     - title: Affordable Pricing
       description: Enjoy delicious meals at prices that won't break the bank. We believe great food should be accessible to everyone, and our menu offers something for every budget.
       icon: i-lucide-circle-dollar-sign
