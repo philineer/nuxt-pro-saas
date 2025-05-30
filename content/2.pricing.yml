@@ -8,8 +8,8 @@ plans:
   - title: Spring Rolls
     description: Crispy rolls filled with fresh vegetables and served with a tangy dipping sauce.
     price:
-      month: $9.9
-      year: $99.9
+      month: $9.99
+      year: $15.99
     button:
       label: Get Started
       color: neutral
