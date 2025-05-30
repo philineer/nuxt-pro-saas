@@ -40,7 +40,7 @@ sections:
     reverse: true
     features:
       - name: Lightning Fast
-        description: Global CDN with sub-100ms latency and automatic performance optimization.
+        description: Experience quick service without compromising on quality. Our efficient kitchen and attentive staff ensure you get your food promptly.
         icon: i-lucide-rocket
       - name: Predictable Pricing
         description: Transparent, usage-based pricing with no hidden fees and volume discounts.
