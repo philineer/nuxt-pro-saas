@@ -59,7 +59,7 @@ plans:
 logos:
   title: Sponsered by
   icons:
-    - i-simple-icons-amazonaws
+    - i-lucide-github
     - i-simple-icons-heroku
     - i-simple-icons-netlify
     - i-simple-icons-vercel
