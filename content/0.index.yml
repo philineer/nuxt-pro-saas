@@ -7,13 +7,13 @@ navigation: false
 hero:
   links:
     - label: Order now!
-      icon: i-lucide-arrow-right
+      icon: i-lucide-shopping-cart
       trailing: true
       to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
       target: _blank
       size: xl
     - label: See our menu.
-      icon: i-simple-icons-github
+      icon: i-lucide-cake-slice
       size: xl
       color: neutral
       variant: subtle
