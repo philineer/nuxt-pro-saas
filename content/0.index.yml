@@ -57,7 +57,7 @@ features:
       icon: i-lucide-utensils-crossed
     - title: Cozy Atmosphere
       description: Relax in our warm and inviting space, designed to make you feel at home. Whether you're dining alone or with friends, our cafe is the perfect place to unwind and enjoy your meal.
-      icon: i-lucide-check
+      icon: i-lucide-smile
     - title: Advanced Security
       description: Your safety is our priority. We implement strict hygiene protocols and ensure a clean, safe environment for all our guests. Enjoy your meal with peace of mind.
       icon: i-lucide-lock
