@@ -69,7 +69,7 @@ features:
       icon: i-lucide-circle-dollar-sign
     - title: Infinite Choices
       description: With a diverse menu that caters to all dietary preferences, you'll always find something to satisfy your cravings. From vegan options to hearty meat dishes, we have it all.
-      icon: i-lucide-chart-bar
+      icon: i-lucide-infinity
 testimonials:
   headline: Customer Success Stories
   title: Trusted by Industry Leaders
