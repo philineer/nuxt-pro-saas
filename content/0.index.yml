@@ -52,23 +52,23 @@ features:
   title: Features that Make Us Stand Out
   description: Wolfgang's Cafe offers a range of features designed to enhance your dining experience. From our extensive menu to our commitment to quality, discover what sets us apart.
   items:
-    - title: Developer Experience
-      description: Comprehensive documentation, powerful CLI tools, and intuitive APIs that make development a joy.
+    - title: Delicious Menu
+      description: Explore our diverse menu featuring a wide range of dishes, from classic favorites to innovative culinary creations. We use only the freshest, locally sourced ingredients to ensure every meal is a delight.
       icon: i-lucide-cog
-    - title: Enterprise Ready
-      description: SOC 2 Type II certified, GDPR compliant, with 24/7 enterprise support and dedicated success managers.
+    - title: Cozy Atmosphere
+      description: Relax in our warm and inviting space, designed to make you feel at home. Whether you're dining alone or with friends, our cafe is the perfect place to unwind and enjoy your meal.
       icon: i-lucide-check
     - title: Advanced Security
-      description: Multi-factor authentication, role-based access control, and audit logs keep your data protected.
+      description: Your safety is our priority. We implement strict hygiene protocols and ensure a clean, safe environment for all our guests. Enjoy your meal with peace of mind.
       icon: i-lucide-lock
-    - title: Global Performance
-      description: Edge computing network spans 200+ locations ensuring lightning-fast response times worldwide.
+    - title: Clean and Safe
+      description: We prioritize cleanliness and safety in our cafe. Our staff follows strict hygiene protocols to ensure a safe dining environment for all our guests.
       icon: i-lucide-rocket
-    - title: Flexible Pricing
-      description: Pay only for what you use with transparent pricing and no long-term commitments required.
+    - title: Affordable Pricing
+      description: Enjoy delicious meals at prices that won't break the bank. We believe great food should be accessible to everyone, and our menu offers something for every budget.
       icon: i-lucide-circle-dollar-sign
-    - title: Infinite Scalability
-      description: Built on cloud-native architecture that automatically scales to meet any demand.
+    - title: Infinite Choices
+      description: With a diverse menu that caters to all dietary preferences, you'll always find something to satisfy your cravings. From vegan options to hearty meat dishes, we have it all.
       icon: i-lucide-chart-bar
 testimonials:
   headline: Customer Success Stories
