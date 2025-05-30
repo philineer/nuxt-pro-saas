@@ -71,20 +71,20 @@ features:
       description: With a diverse menu that caters to all dietary preferences, you'll always find something to satisfy your cravings. From vegan options to hearty meat dishes, we have it all.
       icon: i-lucide-infinity
 testimonials:
-  headline: Customer Success Stories
-  title: Trusted by Industry Leaders
-  description: Join thousands of companies worldwide who have transformed their digital presence with our platform.
+  headline: What Our Customers Say
+  title: Join Thousands of Satisfied Customers
+  description: At Wolfgang's Cafe, we take pride in our exceptional service and delicious food. But don't just take our word for it—see what our customers have to say about their experiences with us.
   items:
-    - quote: The developer experience is unmatched. We migrated our entire infrastructure in weeks instead of months, and our team's productivity has increased dramatically. The TypeScript support and component library saved us months of development time.
+    - quote: Wolfgang's Cafe is my go-to place for lunch. The food is always fresh and delicious, and the staff is incredibly friendly. I love the cozy atmosphere!
       user:
-        name: Sarah Chen
-        description: CTO at TechScale Solutions
+        name: Sarah Parker
+        description: Food Blogger
         avatar:
           src: https://i.pravatar.cc/120?img=1
-    - quote: After implementing the edge computing features, our global application response times dropped by 70%. Our European and Asian markets saw immediate improvements in user engagement and conversion rates.
+    - quote: I had my birthday party at Wolfgang's Cafe, and it was fantastic! The staff went above and beyond to make sure everything was perfect. Highly recommend!
       user:
-        name: Marcus Rodriguez
-        description: VP of Engineering at DataFlow
+        name: Marcus Roberts
+        description: VP at Birthday Events
         avatar:
           src: https://i.pravatar.cc/120?img=7
     - quote: The platform's security features gave us peace of mind during our SOC 2 certification. The built-in compliance tools and audit logs made the process seamless.
