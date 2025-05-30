@@ -111,10 +111,10 @@ testimonials:
         description: CEO at Clean Spaces
         avatar:
           src: https://i.pravatar.cc/120?img=9
-    - quote: The accessibility features and responsive components helped us achieve WCAG 2.1 compliance with minimal custom development. Our site now scores 100 on Lighthouse accessibility metrics.
+    - quote: I recently hosted a small event at Wolfgang's Cafe, and it was a great success. The staff was attentive, the food was delicious, and the ambiance was perfect for our gathering.
       user:
-        name: Michael Torres
-        description: Frontend Lead at AccessFirst
+        name: Liam Johnson
+        description: Event Planner at Gatherings Co.
         avatar:
           src: https://i.pravatar.cc/120?img=11
     - quote: We serve millions of API requests daily, and the real-time analytics and monitoring tools have been invaluable for optimizing our performance and identifying bottlenecks.
