@@ -99,16 +99,16 @@ testimonials:
         description: Vietamese Cuisine Expert
         avatar:
           src: https://i.pravatar.cc/120?img=5
-    - quote: The support team goes above and beyond. They helped us optimize our CI/CD pipeline and suggested performance improvements that reduced our build times by 45%.
+    - quote: The atmosphere at Wolfgang's Cafe is so inviting. It's the perfect place to catch up with friends or enjoy a quiet meal alone. I always feel welcome here.
       user:
-        name: James Wilson
-        description: DevOps Lead at CloudPro
+        name: James o'Connor
+        description: Leader at Foodies United
         avatar:
           src: https://i.pravatar.cc/120?img=8
-    - quote: Switching to this platform reduced our infrastructure costs by 40% while improving performance. The cost savings alone paid for the investment within the first quarter.
+    - quote: The bathrooms are always clean and well-maintained, which is a big plus for me. It's clear that Wolfgang's Cafe takes pride in providing a great experience for its customers.
       user:
-        name: Lisa Patel
-        description: CEO at AutoScale
+        name: Olivia Smith
+        description: CEO at Clean Spaces
         avatar:
           src: https://i.pravatar.cc/120?img=9
     - quote: The accessibility features and responsive components helped us achieve WCAG 2.1 compliance with minimal custom development. Our site now scores 100 on Lighthouse accessibility metrics.
