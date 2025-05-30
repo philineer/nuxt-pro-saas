@@ -6,13 +6,13 @@ seo:
 navigation: false
 hero:
   links:
-    - label: Get started
+    - label: Order now!
       icon: i-lucide-arrow-right
       trailing: true
       to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
       target: _blank
       size: xl
-    - label: Use this template
+    - label: See our menu.
       icon: i-simple-icons-github
       size: xl
       color: neutral
