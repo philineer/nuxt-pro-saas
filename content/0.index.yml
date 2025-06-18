@@ -9,7 +9,7 @@ hero:
     - label: Order now!
       icon: i-lucide-shopping-cart
       trailing: true
-      to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
+      to: /pricing
       target: _blank
       size: xl
     - label: See our menu.
