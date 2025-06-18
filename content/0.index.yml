@@ -12,8 +12,8 @@ hero:
       to: /pricing
       target: _blank
       size: xl
-    - label: See our menu.
-      icon: i-lucide-cake-slice
+    - label: Become a Member
+      icon: i-lucide-user-round
       size: xl
       color: neutral
       variant: subtle
